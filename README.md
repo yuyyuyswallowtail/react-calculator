@@ -41,8 +41,6 @@ This project is a modern **Scientific Calculator Web Application** inspired by G
 
 ---
 
----
-
 ## 🎯 Purpose of This Project
 
 This project was built as a portfolio showcase to demonstrate:
